@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as SDET on different projetcs.
+- 💬 Ask me about Cypress, Axios and Selenium.
+- 🌱 I’m currently learning python and data science.
+- 😄 Pronouns: he/him/his.
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OmChng&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OmChng&langs_count=5&theme=tokyonight)]()
 
-- 🔭 I’m currently working as SDET on different projetcs.
-- 🌱 I’m currently learning python and data science.
-- - 😄 Pronouns: he/him/his.
 
 <!--
 **OmChng/OmChng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
