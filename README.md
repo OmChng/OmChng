@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Omar  👋
 
 - 🔭 I’m currently working as SDET on different projetcs.
 - 💬 Ask me about Cypress, Axios and Selenium.
