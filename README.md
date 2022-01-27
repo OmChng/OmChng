@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning python, ruby and data science.
 - 😄 Pronouns: he/him/his.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OmChng&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&count_private=true&show_icons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OmChng&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmChng&theme=tokyonight&langs_count=5&layout=compact)]()
 
