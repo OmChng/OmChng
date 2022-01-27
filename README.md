@@ -7,7 +7,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OmChng&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OmChng&langs_count=5&theme=tokyonight)]()
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=OChng&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+[![image](https://github-readme-stats.vercel.app/api/top-langs/?username=OChng&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)]()
 
 <!--
 **OmChng/OmChng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
