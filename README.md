@@ -1,8 +1,8 @@
 ### Hi there, my name is Omar  👋
 
-- 🔭 I’m currently working as SDET on different projetcs.
-- 💬 Ask me about Cypress, Axios and Selenium.
-- 🌱 I’m currently learning python, ruby and data science.
+- 🔭 I’m currently working as a Software Development Engineer in Test.
+- 💬 Ask me about Playwright, Cypress and Selenium.
+- 🌱 I’m currently learning TypeScript, Python and Data Science.
 - 😄 Pronouns: he/him/his.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=OmChng&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true)]()
