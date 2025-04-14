@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him/his.
 
 <!-- [![My GitHub Stats](https://github-readme-stats-dun-eight-81.vercel.app/api/?username=OmChng&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true)]() -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmChng&theme=tokyonight&include_all_commits=true&show_icons=true)](https://github.com/OmChng/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmChng&theme=tokyonight&show_icons=true)](https://github.com/OmChng/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmChng&layout=compact&theme=tokyonight&langs_count=8)]()
 
