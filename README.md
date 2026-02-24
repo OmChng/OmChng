@@ -5,12 +5,7 @@
 - 🌱 I’m currently learning TypeScript, Python and Data Science.
 - 😄 Pronouns: he/him/his.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OmChng&show_icons=true&theme=radical)
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmChng&theme=tokyonight&show_icons=true)](https://github.com/OmChng/github-readme-stats) -->
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact  &langs_count=8-->
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **OmChng/OmChng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
