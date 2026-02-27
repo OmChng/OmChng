@@ -1,8 +1,12 @@
 ### Hi there, my name is Omar  👋
 
-- 🔭 I’m currently working as a Software Development Engineer in Test.
-- 💬 Ask me about Playwright, Cypress and Selenium.
-- 🌱 I’m currently learning TypeScript, Python and Data Science.
+- 🔭 I’m currently working as a SRE.
+- 💬 Ask me about: 
+-- Observability.
+-- Operational Excellence.
+-- QA (Automation or not).
+- 📫 How to reach me: omarchenge.dev
+- 🌱 I’m currently learning PHP.
 - 😄 Pronouns: he/him/his.
 
 <!--
